@@ -472,6 +472,11 @@ output better. Further development will be addressing these.
 Please read the [Contributing Guidelines](CONTRIBUTING.md) for more details
 on the process for submitting pull requests.
 
+### Additional information
+
+User session recording presentation slides from Fraser Tweedale in 2017
+* https://2017.ruxcon.org/assets/2017/slides/Session%20Recording%20Ruxcon%202017.pdf
+
 [session_recording]: http://scribery.github.io/
 [log_format]: doc/log_format.md
 [elasticsearch]: https://www.elastic.co/products/elasticsearch
